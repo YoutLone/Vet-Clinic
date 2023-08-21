@@ -2,21 +2,22 @@
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [📝 License](#license)
+- [� Table of Contents](#-table-of-contents)
+- [📖 \[Vet Clinic Database\] ](#-vet-clinic-database-)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Install](#install)
+    - [Usage](#usage)
+  - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
 
@@ -88,6 +89,11 @@ To run the project, execute the following command:
 > - GitHub: [@YoutLone](https://github.com/YoutLone)
 > - LinkedIn: [than-myo-htet-618b2524b](https://linkedin.com/in/than-myo-htet-618b2524b)
 > - Twitter: [ThanMyoHte64860](https://twitter.com/ThanMyoHte64860)
+
+ 👤 **Abdul Wahab Hussain**
+> - GitHub: [Abdulwhbhussain](https://github.com/Abdulwhbhussain)
+> - LinkedIn: [Abdulwhbhussain](https://www.linkedin.com/in/abdulwhbhussain)
+> - Twitter: [Abdulwhbhussain](https://twitter.com/AbdulWhbHussain)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
