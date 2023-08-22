@@ -56,9 +56,9 @@ CREATE TABLE medical_histories_treatments (
 );
 
 -- Create a foreign key index
-CREATE INDEX patients_index ON medical_histories(patient_id);
-CREATE INDEX medical_history_index ON invoices(medical_history_id);
-CREATE INDEX invoices_index ON invoice_items(invoice_id);
-CREATE INDEX treatment_index ON invoice_items(treatment_id);
-CREATE INDEX medical_histories_index ON medical_histories_treatments(medical_histories_id);
-CREATE INDEX treatments_index ON medical_histories_treatments(treatments_id);
+CREATE INDEX patients_ind ON medical_histories(patient_id);
+CREATE INDEX medical_history_ind ON invoices(medical_history_id);
+CREATE INDEX invoices_ind ON invoice_items(invoice_id);
+CREATE INDEX treatment_ind ON invoice_items(treatment_id);
+CREATE INDEX medical_histories_ind ON medical_histories_treatments(medical_histories_id);
+CREATE INDEX treatments_ind ON medical_histories_treatments(treatments_id);
